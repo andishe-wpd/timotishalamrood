@@ -1,0 +1,953 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`sample test: clicking on cells 1`] = `
+Object {
+  "cells": Array [
+    Object {
+      "active": false,
+      "rotate": 3,
+      "type": "L",
+    },
+    Object {
+      "active": false,
+      "rotate": 2,
+      "type": "T",
+    },
+    Object {
+      "active": false,
+      "rotate": 2,
+      "type": "L",
+    },
+    Object {
+      "active": false,
+      "rotate": 3,
+      "type": "I",
+    },
+    Object {
+      "active": false,
+      "rotate": 1,
+      "type": "L",
+    },
+    Object {
+      "active": false,
+      "rotate": 0,
+      "type": "L",
+    },
+    Object {
+      "active": false,
+      "rotate": 2,
+      "type": "L",
+    },
+    Object {
+      "active": false,
+      "rotate": 1,
+      "type": "I",
+    },
+    Object {
+      "active": true,
+      "rotate": 0,
+      "type": "C",
+    },
+  ],
+  "cols": 3,
+  "level": 0,
+  "rows": 3,
+  "source": 8,
+}
+`;
+
+exports[`sample test: clicking on cells 2`] = `
+Object {
+  "cells": Array [
+    Object {
+      "active": false,
+      "rotate": 3,
+      "type": "L",
+    },
+    Object {
+      "active": false,
+      "rotate": 2,
+      "type": "T",
+    },
+    Object {
+      "active": false,
+      "rotate": 2,
+      "type": "L",
+    },
+    Object {
+      "active": false,
+      "rotate": 3,
+      "type": "I",
+    },
+    Object {
+      "active": false,
+      "rotate": 1,
+      "type": "L",
+    },
+    Object {
+      "active": true,
+      "rotate": 1,
+      "type": "L",
+    },
+    Object {
+      "active": false,
+      "rotate": 2,
+      "type": "L",
+    },
+    Object {
+      "active": false,
+      "rotate": 1,
+      "type": "I",
+    },
+    Object {
+      "active": true,
+      "rotate": 0,
+      "type": "C",
+    },
+  ],
+  "cols": 3,
+  "level": 0,
+  "rows": 3,
+  "source": 8,
+}
+`;
+
+exports[`sample test: clicking on cells 3`] = `
+Object {
+  "cells": Array [
+    Object {
+      "active": false,
+      "rotate": 3,
+      "type": "L",
+    },
+    Object {
+      "active": false,
+      "rotate": 2,
+      "type": "T",
+    },
+    Object {
+      "active": false,
+      "rotate": 2,
+      "type": "L",
+    },
+    Object {
+      "active": false,
+      "rotate": 3,
+      "type": "I",
+    },
+    Object {
+      "active": true,
+      "rotate": 1,
+      "type": "L",
+    },
+    Object {
+      "active": true,
+      "rotate": 2,
+      "type": "L",
+    },
+    Object {
+      "active": false,
+      "rotate": 2,
+      "type": "L",
+    },
+    Object {
+      "active": false,
+      "rotate": 1,
+      "type": "I",
+    },
+    Object {
+      "active": true,
+      "rotate": 0,
+      "type": "C",
+    },
+  ],
+  "cols": 3,
+  "level": 0,
+  "rows": 3,
+  "source": 8,
+}
+`;
+
+exports[`sample test: clicking on cells 4`] = `
+Object {
+  "cells": Array [
+    Object {
+      "active": false,
+      "rotate": 3,
+      "type": "L",
+    },
+    Object {
+      "active": false,
+      "rotate": 2,
+      "type": "T",
+    },
+    Object {
+      "active": false,
+      "rotate": 2,
+      "type": "L",
+    },
+    Object {
+      "active": false,
+      "rotate": 3,
+      "type": "I",
+    },
+    Object {
+      "active": false,
+      "rotate": 1,
+      "type": "L",
+    },
+    Object {
+      "active": false,
+      "rotate": 3,
+      "type": "L",
+    },
+    Object {
+      "active": false,
+      "rotate": 2,
+      "type": "L",
+    },
+    Object {
+      "active": false,
+      "rotate": 1,
+      "type": "I",
+    },
+    Object {
+      "active": true,
+      "rotate": 0,
+      "type": "C",
+    },
+  ],
+  "cols": 3,
+  "level": 0,
+  "rows": 3,
+  "source": 8,
+}
+`;
+
+exports[`sample test: clicking on cells 5`] = `
+Object {
+  "cells": Array [
+    Object {
+      "active": false,
+      "rotate": 3,
+      "type": "L",
+    },
+    Object {
+      "active": false,
+      "rotate": 2,
+      "type": "T",
+    },
+    Object {
+      "active": false,
+      "rotate": 2,
+      "type": "L",
+    },
+    Object {
+      "active": false,
+      "rotate": 3,
+      "type": "I",
+    },
+    Object {
+      "active": false,
+      "rotate": 1,
+      "type": "L",
+    },
+    Object {
+      "active": false,
+      "rotate": 3,
+      "type": "L",
+    },
+    Object {
+      "active": false,
+      "rotate": 2,
+      "type": "L",
+    },
+    Object {
+      "active": false,
+      "rotate": 1,
+      "type": "I",
+    },
+    Object {
+      "active": true,
+      "rotate": 1,
+      "type": "C",
+    },
+  ],
+  "cols": 3,
+  "level": 0,
+  "rows": 3,
+  "source": 8,
+}
+`;
+
+exports[`sample test: clicking on cells 6`] = `
+Object {
+  "cells": Array [
+    Object {
+      "active": false,
+      "rotate": 3,
+      "type": "L",
+    },
+    Object {
+      "active": false,
+      "rotate": 3,
+      "type": "T",
+    },
+    Object {
+      "active": false,
+      "rotate": 2,
+      "type": "L",
+    },
+    Object {
+      "active": false,
+      "rotate": 3,
+      "type": "I",
+    },
+    Object {
+      "active": false,
+      "rotate": 1,
+      "type": "L",
+    },
+    Object {
+      "active": false,
+      "rotate": 3,
+      "type": "L",
+    },
+    Object {
+      "active": false,
+      "rotate": 2,
+      "type": "L",
+    },
+    Object {
+      "active": false,
+      "rotate": 1,
+      "type": "I",
+    },
+    Object {
+      "active": true,
+      "rotate": 1,
+      "type": "C",
+    },
+  ],
+  "cols": 3,
+  "level": 0,
+  "rows": 3,
+  "source": 8,
+}
+`;
+
+exports[`sample test: clicking on cells 7`] = `
+Object {
+  "cells": Array [
+    Object {
+      "active": false,
+      "rotate": 3,
+      "type": "L",
+    },
+    Object {
+      "active": false,
+      "rotate": 3,
+      "type": "T",
+    },
+    Object {
+      "active": false,
+      "rotate": 2,
+      "type": "L",
+    },
+    Object {
+      "active": false,
+      "rotate": 3,
+      "type": "I",
+    },
+    Object {
+      "active": false,
+      "rotate": 1,
+      "type": "L",
+    },
+    Object {
+      "active": false,
+      "rotate": 3,
+      "type": "L",
+    },
+    Object {
+      "active": false,
+      "rotate": 3,
+      "type": "L",
+    },
+    Object {
+      "active": false,
+      "rotate": 1,
+      "type": "I",
+    },
+    Object {
+      "active": true,
+      "rotate": 1,
+      "type": "C",
+    },
+  ],
+  "cols": 3,
+  "level": 0,
+  "rows": 3,
+  "source": 8,
+}
+`;
+
+exports[`sample test: clicking on cells 8`] = `
+Object {
+  "cells": Array [
+    Object {
+      "active": false,
+      "rotate": 3,
+      "type": "L",
+    },
+    Object {
+      "active": false,
+      "rotate": 3,
+      "type": "T",
+    },
+    Object {
+      "active": false,
+      "rotate": 2,
+      "type": "L",
+    },
+    Object {
+      "active": false,
+      "rotate": 0,
+      "type": "I",
+    },
+    Object {
+      "active": false,
+      "rotate": 1,
+      "type": "L",
+    },
+    Object {
+      "active": false,
+      "rotate": 3,
+      "type": "L",
+    },
+    Object {
+      "active": false,
+      "rotate": 3,
+      "type": "L",
+    },
+    Object {
+      "active": false,
+      "rotate": 1,
+      "type": "I",
+    },
+    Object {
+      "active": true,
+      "rotate": 1,
+      "type": "C",
+    },
+  ],
+  "cols": 3,
+  "level": 0,
+  "rows": 3,
+  "source": 8,
+}
+`;
+
+exports[`sample test: clicking on cells 9`] = `
+Object {
+  "cells": Array [
+    Object {
+      "active": false,
+      "rotate": 3,
+      "type": "L",
+    },
+    Object {
+      "active": false,
+      "rotate": 3,
+      "type": "T",
+    },
+    Object {
+      "active": false,
+      "rotate": 2,
+      "type": "L",
+    },
+    Object {
+      "active": false,
+      "rotate": 0,
+      "type": "I",
+    },
+    Object {
+      "active": false,
+      "rotate": 1,
+      "type": "L",
+    },
+    Object {
+      "active": false,
+      "rotate": 3,
+      "type": "L",
+    },
+    Object {
+      "active": false,
+      "rotate": 3,
+      "type": "L",
+    },
+    Object {
+      "active": false,
+      "rotate": 1,
+      "type": "I",
+    },
+    Object {
+      "active": true,
+      "rotate": 2,
+      "type": "C",
+    },
+  ],
+  "cols": 3,
+  "level": 0,
+  "rows": 3,
+  "source": 8,
+}
+`;
+
+exports[`sample test: clicking on cells 10`] = `
+Object {
+  "cells": Array [
+    Object {
+      "active": false,
+      "rotate": 3,
+      "type": "L",
+    },
+    Object {
+      "active": false,
+      "rotate": 3,
+      "type": "T",
+    },
+    Object {
+      "active": false,
+      "rotate": 2,
+      "type": "L",
+    },
+    Object {
+      "active": false,
+      "rotate": 0,
+      "type": "I",
+    },
+    Object {
+      "active": false,
+      "rotate": 1,
+      "type": "L",
+    },
+    Object {
+      "active": false,
+      "rotate": 3,
+      "type": "L",
+    },
+    Object {
+      "active": false,
+      "rotate": 0,
+      "type": "L",
+    },
+    Object {
+      "active": false,
+      "rotate": 1,
+      "type": "I",
+    },
+    Object {
+      "active": true,
+      "rotate": 2,
+      "type": "C",
+    },
+  ],
+  "cols": 3,
+  "level": 0,
+  "rows": 3,
+  "source": 8,
+}
+`;
+
+exports[`sample test: clicking on cells 11`] = `
+Object {
+  "cells": Array [
+    Object {
+      "active": false,
+      "rotate": 3,
+      "type": "L",
+    },
+    Object {
+      "active": false,
+      "rotate": 3,
+      "type": "T",
+    },
+    Object {
+      "active": false,
+      "rotate": 2,
+      "type": "L",
+    },
+    Object {
+      "active": true,
+      "rotate": 0,
+      "type": "I",
+    },
+    Object {
+      "active": false,
+      "rotate": 1,
+      "type": "L",
+    },
+    Object {
+      "active": false,
+      "rotate": 3,
+      "type": "L",
+    },
+    Object {
+      "active": true,
+      "rotate": 0,
+      "type": "L",
+    },
+    Object {
+      "active": true,
+      "rotate": 1,
+      "type": "I",
+    },
+    Object {
+      "active": true,
+      "rotate": 3,
+      "type": "C",
+    },
+  ],
+  "cols": 3,
+  "level": 0,
+  "rows": 3,
+  "source": 8,
+}
+`;
+
+exports[`sample test: clicking on cells 12`] = `
+Object {
+  "cells": Array [
+    Object {
+      "active": false,
+      "rotate": 0,
+      "type": "L",
+    },
+    Object {
+      "active": false,
+      "rotate": 3,
+      "type": "T",
+    },
+    Object {
+      "active": false,
+      "rotate": 2,
+      "type": "L",
+    },
+    Object {
+      "active": true,
+      "rotate": 0,
+      "type": "I",
+    },
+    Object {
+      "active": false,
+      "rotate": 1,
+      "type": "L",
+    },
+    Object {
+      "active": false,
+      "rotate": 3,
+      "type": "L",
+    },
+    Object {
+      "active": true,
+      "rotate": 0,
+      "type": "L",
+    },
+    Object {
+      "active": true,
+      "rotate": 1,
+      "type": "I",
+    },
+    Object {
+      "active": true,
+      "rotate": 3,
+      "type": "C",
+    },
+  ],
+  "cols": 3,
+  "level": 0,
+  "rows": 3,
+  "source": 8,
+}
+`;
+
+exports[`sample test: clicking on cells 13`] = `
+Object {
+  "cells": Array [
+    Object {
+      "active": true,
+      "rotate": 1,
+      "type": "L",
+    },
+    Object {
+      "active": false,
+      "rotate": 3,
+      "type": "T",
+    },
+    Object {
+      "active": false,
+      "rotate": 2,
+      "type": "L",
+    },
+    Object {
+      "active": true,
+      "rotate": 0,
+      "type": "I",
+    },
+    Object {
+      "active": false,
+      "rotate": 1,
+      "type": "L",
+    },
+    Object {
+      "active": false,
+      "rotate": 3,
+      "type": "L",
+    },
+    Object {
+      "active": true,
+      "rotate": 0,
+      "type": "L",
+    },
+    Object {
+      "active": true,
+      "rotate": 1,
+      "type": "I",
+    },
+    Object {
+      "active": true,
+      "rotate": 3,
+      "type": "C",
+    },
+  ],
+  "cols": 3,
+  "level": 0,
+  "rows": 3,
+  "source": 8,
+}
+`;
+
+exports[`sample test: clicking on cells 14`] = `
+Object {
+  "cells": Array [
+    Object {
+      "active": true,
+      "rotate": 2,
+      "type": "L",
+    },
+    Object {
+      "active": false,
+      "rotate": 3,
+      "type": "T",
+    },
+    Object {
+      "active": false,
+      "rotate": 2,
+      "type": "L",
+    },
+    Object {
+      "active": true,
+      "rotate": 0,
+      "type": "I",
+    },
+    Object {
+      "active": false,
+      "rotate": 1,
+      "type": "L",
+    },
+    Object {
+      "active": false,
+      "rotate": 3,
+      "type": "L",
+    },
+    Object {
+      "active": true,
+      "rotate": 0,
+      "type": "L",
+    },
+    Object {
+      "active": true,
+      "rotate": 1,
+      "type": "I",
+    },
+    Object {
+      "active": true,
+      "rotate": 3,
+      "type": "C",
+    },
+  ],
+  "cols": 3,
+  "level": 0,
+  "rows": 3,
+  "source": 8,
+}
+`;
+
+exports[`sample test: clicking on cells 15`] = `
+Object {
+  "cells": Array [
+    Object {
+      "active": false,
+      "rotate": 3,
+      "type": "L",
+    },
+    Object {
+      "active": false,
+      "rotate": 3,
+      "type": "T",
+    },
+    Object {
+      "active": false,
+      "rotate": 2,
+      "type": "L",
+    },
+    Object {
+      "active": true,
+      "rotate": 0,
+      "type": "I",
+    },
+    Object {
+      "active": false,
+      "rotate": 1,
+      "type": "L",
+    },
+    Object {
+      "active": false,
+      "rotate": 3,
+      "type": "L",
+    },
+    Object {
+      "active": true,
+      "rotate": 0,
+      "type": "L",
+    },
+    Object {
+      "active": true,
+      "rotate": 1,
+      "type": "I",
+    },
+    Object {
+      "active": true,
+      "rotate": 3,
+      "type": "C",
+    },
+  ],
+  "cols": 3,
+  "level": 0,
+  "rows": 3,
+  "source": 8,
+}
+`;
+
+exports[`sample test: clicking on cells 16`] = `
+Object {
+  "cells": Array [
+    Object {
+      "active": false,
+      "rotate": 0,
+      "type": "L",
+    },
+    Object {
+      "active": false,
+      "rotate": 3,
+      "type": "T",
+    },
+    Object {
+      "active": false,
+      "rotate": 2,
+      "type": "L",
+    },
+    Object {
+      "active": true,
+      "rotate": 0,
+      "type": "I",
+    },
+    Object {
+      "active": false,
+      "rotate": 1,
+      "type": "L",
+    },
+    Object {
+      "active": false,
+      "rotate": 3,
+      "type": "L",
+    },
+    Object {
+      "active": true,
+      "rotate": 0,
+      "type": "L",
+    },
+    Object {
+      "active": true,
+      "rotate": 1,
+      "type": "I",
+    },
+    Object {
+      "active": true,
+      "rotate": 3,
+      "type": "C",
+    },
+  ],
+  "cols": 3,
+  "level": 0,
+  "rows": 3,
+  "source": 8,
+}
+`;
+
+exports[`sample test: initial render 1`] = `
+Object {
+  "cells": Array [
+    Object {
+      "active": false,
+      "rotate": 3,
+      "type": "L",
+    },
+    Object {
+      "active": false,
+      "rotate": 2,
+      "type": "T",
+    },
+    Object {
+      "active": false,
+      "rotate": 2,
+      "type": "L",
+    },
+    Object {
+      "active": false,
+      "rotate": 3,
+      "type": "I",
+    },
+    Object {
+      "active": false,
+      "rotate": 1,
+      "type": "L",
+    },
+    Object {
+      "active": false,
+      "rotate": 0,
+      "type": "L",
+    },
+    Object {
+      "active": false,
+      "rotate": 2,
+      "type": "L",
+    },
+    Object {
+      "active": true,
+      "rotate": 1,
+      "type": "I",
+    },
+    Object {
+      "active": true,
+      "rotate": 3,
+      "type": "C",
+    },
+  ],
+  "cols": 3,
+  "level": 0,
+  "rows": 3,
+  "source": 8,
+}
+`;
